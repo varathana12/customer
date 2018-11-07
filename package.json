@@ -1,0 +1,43 @@
+{
+  "name": "shuttle_bus",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.4.3",
+    "@material-ui/icons": "^1.0.0-beta.43",
+    "axios": "^0.18.0",
+    "brunch": "^2.10.16",
+    "classnames": "^2.2.5",
+    "date-fns": "^2.0.0-alpha.7",
+    "enzyme": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "jquery": "^3.3.1",
+    "material-ui": "^1.0.0-beta.44",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "material-ui-pickers": "^1.0.0-rc.4",
+    "moment": "^2.22.1",
+    "moment-timezone": "^0.5.17",
+    "prop-types": "^15.6.0",
+    "qr-image": "^3.2.0",
+    "qrcode-react": "^0.1.16",
+    "qrcode.react": "^0.8.0",
+    "react": "^16.3.2",
+    "react-device-detect": "^1.5.8",
+    "react-dom": "^16.3.2",
+    "react-jss": "^8.6.1",
+    "react-qr-code": "^0.1.2",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-tap-event-plugin": "^3.0.2",
+    "redux": "^4.0.0",
+    "uglify-js-brunch": "^2.10.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
